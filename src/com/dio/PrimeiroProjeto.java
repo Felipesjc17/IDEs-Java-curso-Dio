@@ -29,5 +29,5 @@ ctrl espaço completa
 ctrl 3 aparece opções para dd
 ctrl N novo
 ctrl D apaga linha
-
+ctrl alt seta pra cima ou pra baixo para copiar comando selecionado
 */
